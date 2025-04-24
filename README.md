@@ -2,7 +2,7 @@
 
 CryptoTracker is a modern web application that provides **real-time cryptocurrency price tracking** with a sleek, user-friendly interface. It uses the **Binance WebSocket API** to display live data in a responsive table with features like sorting, searching, dark/light themes, and mini price charts.
 
-🔗 **Live Demo**: [CryptoTracker Live Demo](https://your-live-demo-link.com)  
+🔗 **Live Demo**: [CryptoTracker Live Demo](crypto-tracker-raghavyas19.vercel.app)  
 _Replace with your actual deployed app URL_
 
 ---
